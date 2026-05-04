@@ -134,7 +134,7 @@ Terminal-based full-stack app built in a team of 4 for managing dramas and drama
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TayyabWaseem&theme=soft&ring=7B2D3B&fire=9C3B4B&currStreakLabel=7B2D3B&sideLabels=7B2D3B&border=DFC8CC&background=FAF4F5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TayyabWaseem&theme=dark&ring=9C3B4B&fire=7B2D3B&currStreakLabel=DFC8CC&sideLabels=DFC8CC&border=7B2D3B&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
