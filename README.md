@@ -128,7 +128,7 @@ Terminal-based full-stack app built in a team of 4 for managing dramas and drama
 
 <div align="center">
 
-![snake gif](https://github.com/TayyabWaseem/TayyabWaseem/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/TayyabWaseem/TayyabWaseem/blob/output/github-contribution-grid-snake-dark.svg?raw=true"/>
 
 </div>
 
