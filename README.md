@@ -128,9 +128,7 @@ Terminal-based full-stack app built in a team of 4 for managing dramas and drama
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TayyabWaseem&show_icons=true&theme=light&title_color=7B2D3B&icon_color=7B2D3B&text_color=2B2526&border_color=DFC8CC&bg_color=FAF4F5&hide_border=false&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabWaseem&layout=compact&theme=light&title_color=7B2D3B&text_color=2B2526&border_color=DFC8CC&bg_color=FAF4F5&hide_border=false&langs_count=8"/>
+![snake gif](https://github.com/TayyabWaseem/TayyabWaseem/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
