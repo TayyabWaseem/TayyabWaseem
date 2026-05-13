@@ -12,14 +12,6 @@
 
 ---
 
-## 🧠 What I'm Into
-
-I'm a Computer Science student at **LUMS** who spends too much time thinking about how neural networks learn, why diffusion models work so well, and how to make distributed training actually *private*. When I'm not training models, I'm building full-stack apps that hopefully don't break in production.
-
-Currently doing research on **Federated Learning + Foundation Models**, specifically making LLMs fine-tune efficiently across heterogeneous, non-IID data using LoRA and sparse adapters. It's as hard as it sounds.
-
----
-
 ## ⚙️ Tech Stack
 
 <div align="center">
