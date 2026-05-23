@@ -59,9 +59,9 @@
 ### 🎨 Advanced ML Portfolio
 > *PyTorch · Transformers · NumPy  · TorchVision · Diffusion Models · GANs · VAEs* 
 
-A deep dive into generative modeling — not tutorials, actual implementations from scratch.
+A deep dive into generative modeling.
 
-- **Generative Models:** β-VAE, GAN, CycleGAN, DCGAN, WGAN-GP — image generation and latent-space interpolation
+- **Generative Models:** β-VAE, GAN, CycleGAN, DCGAN, WGAN-GP (image generation and latent-space interpolation)
 - **Diffusion Pipelines:** DDPM, DDIM, latent diffusion with conditional U-Nets and classifier-free guidance
 - **Efficient Vision:** ViT with top-k sparse attention + convolutional stem; pruning + knowledge distillation for compression
 
@@ -70,7 +70,7 @@ A deep dive into generative modeling — not tutorials, actual implementations f
 ### 🎮 Real-Time Multiplayer Ludo
 > *React · Node.js · Express · MongoDB · Socket.IO*
 
-Full-stack browser-based Ludo with live multiplayer — synchronized game state, server-side move validation, and persistent game history across sessions. Built with the full MERN stack.
+Full-stack browser-based Ludo with live multiplayer; synchronized game state, server-side move validation, and persistent game history across sessions. Built with the full MERN stack.
 
 ---
 
@@ -84,35 +84,35 @@ Led a 5-person team to build an MVC-patterned Android app for visitor management
 ### 🎵 Spotify Music Recommendation System
 > *Python · Scikit-Learn · Random Forests · GMMs · PCA*
 
-Built in a team of 3. Used **Random Forests** for feature selection to identify the most predictive audio attributes, then clustered users into taste profiles with **Gaussian Mixture Models**. Applied **PCA** to reduce and visualize the cluster space — turns out music taste is messier than you'd think.
+Built in a team of 3. Used **Random Forests** for feature selection to identify the most predictive audio attributes, then clustered users into taste profiles with **Gaussian Mixture Models**. Applied **PCA** to reduce and visualize the cluster space.
 
 ---
 
 ### 🖼️ CIFAR-10 Image Classifier
 > *Python · NumPy · Custom CNN*
 
-Trained a deep CNN on CIFAR-10 from a fairly bare-metal setup — custom **SGD with momentum** and learning rate decay, no high-level wrappers carrying the weight. Hit **82% accuracy**. The kind of project that makes you appreciate what PyTorch is actually doing under the hood.
+Trained a deep CNN on CIFAR-10 from a fairly bare-metal setup — custom **SGD with momentum** and learning rate decay, no high-level wrappers carrying the weight. Hit **82% accuracy**.
 
 ---
 
 ### 📈 Stock Price Prediction Model
 > *Python · NumPy · Scikit-Learn*
 
-Built a **multivariate polynomial regression** model on time-series stock data to forecast short-term price movements. Evaluated with cross-validation and RMSE — learned quickly that markets are humbling.
+Built a **multivariate polynomial regression** model on time-series stock data to forecast short-term price movements. Evaluated with cross-validation and RMSE.
 
 ---
 
 ### 🎓 Student Performance Classifier (SVM from Scratch)
 > *Python · NumPy*
 
-Implemented a **Support Vector Machine from scratch** — linear, polynomial, and RBF kernels, no Scikit-Learn SVM. Applied to academic performance data to flag at-risk students with high precision and recall. The kind of project that makes you appreciate abstraction layers.
+Implemented a **Support Vector Machine from scratch** - linear, polynomial, and RBF kernels, no Scikit-Learn SVM. Applied to academic performance data to flag at-risk students with high precision and recall.
 
 ---
 
 ### 🎭 StageSync — Drama Society Database
 > *C# · .NET · MSSQL · Factory Pattern*
 
-Terminal-based full-stack app built in a team of 4 for managing dramas and drama societies across Lahore. Connected to a live **MSSQL** database, followed the **Factory design pattern**, built with the **.NET framework**. Low glamour, high learning.
+Terminal-based full-stack app built in a team of 4 for managing dramas and drama societies across Lahore. Connected to a live **MSSQL** database, followed the **Factory design pattern**, built with the **.NET framework**.
 
 ---
 
